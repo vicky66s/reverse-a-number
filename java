@@ -5,7 +5,7 @@ public class ReverseNumber {
         // Create a Scanner object to read input from the user
         Scanner scanner = new Scanner(System.in);
 
-        // Prompt the user to enter an integer
+        // Prompt the user to enter an integer898797
         System.out.print("Please enter an integer: ");
         int num = scanner.nextInt();
 
