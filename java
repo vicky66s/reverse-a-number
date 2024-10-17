@@ -1,8 +1,9 @@
+// 000000000000
 import java.util.Scanner;
 
 public class ReverseNumber {
     public static void main(String[] args) {
-        // Create a Scanner object to read input from the user000000000000
+        // Create a Scanner object to read input from the user
         Scanner scanner = new Scanner(System.in);
 
         // Prompt the user to enter an integer898797
