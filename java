@@ -1,4 +1,4 @@
-// 001
+// 01
 import java.util.Scanner;
 
 public class ReverseNumber {
